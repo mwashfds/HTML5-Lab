@@ -1,7 +1,6 @@
 # HTML5-Lab
 Experimental projects of HTML5.
-Developers' link: <a href="http://www.w3school.com.cn/tags/html_ref_eventattributes.asp">元素通用事件</a> <a href="http://www.w3school.com.cn/tags/html_ref_audio_video_dom.asp">视音频通用事件</a>
-
+Developers' link: <a href="http://www.w3school.com.cn/tags/html_ref_eventattributes.asp">元素通用事件</a> <a href="http://www.w3school.com.cn/tags/html_ref_audio_video_dom.asp">视音频通用事件</a> <a href="http://www.w3school.com.cn/tags/html_ref_standardattributes.asp">全局可用属性</a>
 ## MWASH H5Player
 This webpage player is programmed by <a style="text-decoration:none;" target="_blank" href="https://github.com/SkyFuInMC">SkyFuInMC</a>. Now it is still experimental.
 
