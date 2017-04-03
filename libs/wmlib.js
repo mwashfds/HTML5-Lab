@@ -1,6 +1,4 @@
 // MWASH Webmaker Library
-// Useful variables.
-default = 0;
 // Write debug message to the console.
 function writeDebug(Message) {
  sampletime = new Date();
