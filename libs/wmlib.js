@@ -50,4 +50,15 @@ function gel(name,type,list) {
   }}
  return(retres);
  retres = null;}
-// Load scripts and style sheets
+// Analyse Word Sheet
+function wsr(wordSheet,keyName) {
+  fc=-1;
+  temp = wordSheet.split("\n");
+  found = 0;
+  while (found<99) {
+   if (temp[found].split(":")[0]==keyName) {fc=found}
+   found = found + 1;}
+  retres = temp[fc].split(":")[1];
+  return(retres);}
+ function wsd(wordsheet,keyName) {}
+ function wsw(wordsheet,keyName,keyValue) {}
