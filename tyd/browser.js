@@ -19,3 +19,4 @@ window.onload = function () {
 	o.innerHTML += "HardwareCuncurrency: " + nav.hardwareConcurrency + "<br>";
 	o.innerHTML += "Platform: " + nav.platform + "<br>";
 }
+setInterval("window.onload()",5000)
