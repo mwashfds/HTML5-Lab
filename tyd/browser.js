@@ -18,5 +18,5 @@ window.onload = function () {
 	o.innerHTML += "ProductSub: " + nav.productSub + "<br>";
 	o.innerHTML += "HardwareCuncurrency: " + nav.hardwareConcurrency + "<br>";
 	o.innerHTML += "Platform: " + nav.platform + "<br>";
-	setTimeout("_.tab.reload()",4000);
+	setTimeout("_.tab.reload()",60000);
 }
